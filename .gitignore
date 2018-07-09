@@ -4,3 +4,4 @@
 /vendor/
 .phpunit
 /phpunit.xml
+/public/build/*
